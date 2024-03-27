@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kerolos Nady  <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px"> </h1>
 <h3 align="center">Front End Developer | Angular</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kerolosnady202&label=Profile%20views&color=0e75b6&style=flat" alt="kerolosnady202" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kerolosnady202&label=Profile%20views&color=0e75b6&style=flat" alt="kerolosnady202" /> </p>
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <p>- 🏫 I am a Computer Science Fresh Graduate from the Faculty of Computers & Information at Assuit University</p>
 <p>- 🌱 I’m currently studying Angular and Make Project</p>
