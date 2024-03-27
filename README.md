@@ -2,7 +2,7 @@
 <h3 align="center">Front End Developer | Angular</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerolosnady202&label=Profile%20views&color=0e75b6&style=flat" alt="kerolosnady202" /> </p>
-
+<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 - 📫 How to reach me **kerolosnady199@gmail.com**
 
 <h3 align="left">Connect with me : <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"> </h3>
