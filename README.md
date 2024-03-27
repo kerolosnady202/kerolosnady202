@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerolosnady202&label=Profile%20views&color=0e75b6&style=flat" alt="kerolosnady202" /> </p>
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
-school: I am a `Computer Science Fresh Graduate` from Faculty of Computers & Information at Assuit University
+- 🏫 I am a Computer Science Fresh Graduate from the Faculty of Computers & Information at Suez University
 - 📫 How to reach me **kerolosnady199@gmail.com**
 
 <h3 align="left">Connect with me : <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"> </h3>
