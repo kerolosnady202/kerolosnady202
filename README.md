@@ -5,7 +5,7 @@
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <p>- 🏫 I am a Computer Science Fresh Graduate from the Faculty of Computers & Information at Assuit University</p>
 <p>- 🌱 I’m currently studying Angular and Make Project</p>
-<p>- 📫 How to reach me **kerolosnady199@gmail.com**</p>
+<p>- 📫 How to reach me <a>kerolosnady199@gmail.com</a></p>
 
 <h3 align="left">Connect with me : <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"> </h3>
 <p align="left">
