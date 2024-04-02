@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me : <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"> </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kerolos-nady-598833219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kerolos-nady-598833219/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100008297653914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008297653914" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kerolos-nady-598833219/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kerolos-nady-598833219/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008297653914" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008297653914" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
